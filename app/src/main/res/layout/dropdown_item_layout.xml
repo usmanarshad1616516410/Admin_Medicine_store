@@ -1,0 +1,14 @@
+<!-- res/layout/dropdown_item_layout.xml -->
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="State"
+    android:background="@color/white"
+    android:padding="@dimen/_16sdp"
+    android:maxLines="1"
+    android:drawableEnd="@drawable/down_arrow"
+    android:ellipsize="end"
+    android:drawablePadding="@dimen/_10sdp"
+    style="?attr/textAppearanceSubtitle1"
+    />

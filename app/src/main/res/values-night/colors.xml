@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+
+    <color name="yellow">#2AB6F6</color>
+    <color name="orange">#036895</color>
+    <color name="status_bar_color">@color/yellow</color>
+    <color name="navigation_bar_color">@color/yellow</color>
+
+    <color name="green">#26A809</color>
+
+    <color name="grey">#B3A271</color>
+
+    <color name="iv_bg">#5A7175</color>
+
+    <color name="blue">#5EC2EF</color>
+
+    <color name="lightgrey">#5A7175</color>
+
+    <color name="shimmer">#DDDDDD</color>
+
+</resources>
